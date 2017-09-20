@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Le site web de Hugh</title>
+	<link href="style.css" type="text/css" rel="stylesheet">	
+</head>
+<body>
+	<header class="header">
+	<h1>Informatiques et Sciences du Numeriques</h1>
+	<p>Hugh Haycox</p>
+	</header>
+<nav><br>
+<ul id="menu">
+	<li><a href="index.html">Accueil</a></li>
+	<li><a href="activites.html">Activités </a></li>
+	<li><a href="exposes.html">Exposés </a></li>
+	<li><a href="projet.html">Projet </a></li>
+	<li><a href="logiciel.html">Logiciel </a></li>
+</ul>
+</nav>
+<h1>Accueil</h1><br>
+<h2>Bienvenue</h2><br>
+<p>Ce site est le site Hugh Haycox qui est la base de mon cours d'ISN et va contenir tout le travail effectué en cours. Donc ce site sera tenu a jour regulierement toutes les semaines.</p>
+</body>
+</html>
